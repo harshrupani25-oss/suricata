@@ -9,20 +9,19 @@
 2. Modify Suricata settings in the /etc/suricata/suricata.yaml file and set the following variables:
 
        Go to the nano /etc/suricata/suricata.yaml and change the following content and also set the ip of your machine:
-       HOME\_NET: "<UBUNTU\_IP>"
+
+
+
+
+   HOME\_NET: "<UBUNTU\_IP>"
        EXTERNAL\_NET: "any"
 
-
-
 default-rule-path: /etc/suricata/rules
-
 rule-files:
-
    "\*.rules"
 
 
 Global stats configuration
-
 stats:
 enabled: Yes
 
