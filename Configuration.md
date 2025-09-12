@@ -13,18 +13,21 @@
 
 
 
-   HOME\_NET: "<UBUNTU\_IP>"
+HOME\_NET: "<UBUNTU\_IP>"
    
-      EXTERNAL\_NET: "any"
+  EXTERNAL\_NET: "any"
 
 default-rule-path: /etc/suricata/rules
 
 rule-files:
+
    "\*.rules"
 
 
 Global stats configuration
+
 stats:
+
 enabled: Yes
 
 
