@@ -44,18 +44,16 @@ Network: One interface to monitor traffic
 
 bash:-
 
-    sudo apt update
-    sudo apt install -y software-properties-common wget curl git
+    sudo apt update && sudo apt upgrade -y
+    sudo apt install suricata -y
+    suricata --build-info
+    wget -O suricata.tar.gz "https://www.openinfosecfoundation.org/download/suricata-8.0.0.tar.gz"
 
 
 Add Suricata repository:-
 
     sudo add-apt-repository ppa:oisf/suricata-stable
     sudo apt update
-
-Install Suricata:-
-
-    sudo apt install -y suricata
 
 🧑‍💻create a suricata rule for Network-based attacks in Nmap:-
 
