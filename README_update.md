@@ -1,20 +1,15 @@
 🛡️ Suricata Home Lab
 
 
-This repository contains the setup and configuration for a Suricata IDS/IPS Home Lab.  
-The goal is to gain practical experience in deploying, configuring, and testing an Intrusion Detection System (IDS) for network security monitoring.
+This repository contains the setup and configuration for a Suricata IDS/IPS Home Lab. The goal is to gain practical experience in deploying, configuring, and testing an Intrusion Detection System (IDS) for network security monitoring.
 
 
 In this home-lab, we will cover:
 
 📖 Overview
-
 🖼️ Lab Diagram 
-
 🧮 Requirements
-
 🏗️ Installation
-
 🧑‍💻 Create a suricata rule for Network-based attacks in Nmap
 
 
