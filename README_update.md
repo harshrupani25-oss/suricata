@@ -7,9 +7,13 @@ This repository contains the setup and configuration for a Suricata IDS/IPS Home
 In this home-lab, we will cover:
 
 📖 Overview
+
 🖼️ Lab Diagram 
+
 🧮 Requirements
+
 🏗️ Installation
+
 🧑‍💻 Create a suricata rule for Network-based attacks in Nmap
 
 
