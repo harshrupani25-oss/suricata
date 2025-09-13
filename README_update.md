@@ -24,7 +24,8 @@ The goal of setting up a Suricata home-lab is to gain practical experience in de
 
 🖼️Lab Diagram
 
-(./images/overview.png)  
+<img width="1536" height="1024" alt="suricata home lad diagram" src="https://github.com/user-attachments/assets/1ecaf11c-58bd-4c94-9e2f-c30a4078a466" />
+
 
 
 🧮 Requirements
